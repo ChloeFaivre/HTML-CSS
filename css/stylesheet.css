@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: rgb(240, 240, 240);
+  margin: 0;
+  padding: 20px
+}
+
+footer {
+  background-color: rgb(240, 240, 240);
+  text-align: center;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+h1, h2, h3 {
+  color: MediumSeaGreen;
+}
+
+h2 {
+  font-style: "Georgia";
+}
+
+a {
+  color: blue;
+}
+
+ol {
+  list-style-image: url("tick.gif");
+}
+
+td {
+  border: 1px solid black;
+}
+
+img{
+  float: left;
+}
+
+.menu li{
+  display: inline-block;
+}
+.body {
+  padding-left: 350px;
+  margin-top: 40px;
+}
+.presentation, .formation, .experience, .competence, .langue {
+  text-align: justify;
+
+}
